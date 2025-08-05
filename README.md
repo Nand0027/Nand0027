@@ -1,4 +1,4 @@
-# Hi there, I'm Nand Kishor 👋
+# Hi there, I'm Nand Kishor Yadav 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nand0027&color=blue)
 ![LinkedIn Badge](https://img.shields.io/badge/-Nand%20Kishor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nand-kishor9847)
